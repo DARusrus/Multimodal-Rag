@@ -1,0 +1,16 @@
+torch>=2.0.0
+transformers==4.44.2
+accelerate==0.34.2
+sentence-transformers==3.0.1
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-huggingface==0.0.3
+langchain-text-splitters==0.2.4
+pypdf==4.2.0
+chromadb==0.4.24
+faster-whisper==1.0.3
+gtts==2.5.1
+soundfile==0.12.1
+streamlit==1.35.0
+Pillow==10.3.0
+opencv-python-headless==4.8.1.78
