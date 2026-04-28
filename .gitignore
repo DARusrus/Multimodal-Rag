@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env
+
+# Data / DB
+*.db
+chroma_db/
+tmp/
+
+# Kaggle
+.kaggle/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
