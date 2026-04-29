@@ -329,54 +329,55 @@ sequenceDiagram
 <!-- FEATURES -->
 <div align="center">
 <h2>✨ Features At A Glance</h2>
-</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 📄 Document Intelligence
-- ✅ PDF ingestion (multi-page, cleaned)
-- ✅ CSV ingestion (row-level documents)
-- ✅ arXiv ingestion by paper ID
-- ✅ Smart fallback: no file? → auto-arXiv
-- ✅ Source citations in every answer
-- ✅ Similarity scores shown per chunk
+✅ PDF ingestion (multi-page, cleaned)<br/>
+✅ CSV ingestion (row-level documents)<br/>
+✅ arXiv ingestion by paper ID<br/>
+✅ Smart fallback: no file? → auto-arXiv<br/>
+✅ Source citations in every answer<br/>
+✅ Similarity scores shown per chunk
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🧠 Conversation Memory
-- ✅ Rolling 6-turn memory window
-- ✅ Follow-up questions resolved correctly
-- ✅ Memory injected into prompt template
-- ✅ Clear chat button to reset state
-- ✅ Full chat history displayed in UI
+✅ Rolling 6-turn memory window<br/>
+✅ Follow-up questions resolved correctly<br/>
+✅ Memory injected into prompt template<br/>
+✅ Clear chat button to reset state<br/>
+✅ Full chat history displayed in UI
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🖼️ Image Understanding
-- ✅ Drag-and-drop image upload (JPG/PNG)
-- ✅ BLIP automatic captioning
-- ✅ Visual question answering (VQA)
-- ✅ Side-by-side image + answer layout
+✅ Drag-and-drop image upload (JPG/PNG)<br/>
+✅ BLIP automatic captioning<br/>
+✅ Visual question answering (VQA)<br/>
+✅ Side-by-side image + answer layout
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🎙️ Voice Interface
-- ✅ WAV / MP3 upload + playback
-- ✅ Faster-Whisper transcription
-- ✅ RAG on transcript (voice → answer)
-- ✅ gTTS speech synthesis of answer
-- ✅ Download spoken response as MP3
+✅ WAV / MP3 upload + playback<br/>
+✅ Faster-Whisper transcription<br/>
+✅ RAG on transcript (voice → answer)<br/>
+✅ gTTS speech synthesis of answer<br/>
+✅ Download spoken response as MP3
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
